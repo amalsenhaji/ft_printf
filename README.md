@@ -1,2 +1,2 @@
-# ft_printf
-The goal of this project is pretty straightforward. Is an implementation of printf().
+# printf
+This project consists of coding a library that contains a simplified version (more information below) of the printf function.
